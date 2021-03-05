@@ -1,0 +1,6 @@
+5
+0@12345@cemil@123@Banka Müdürü@0@1@2
+1@1234@kerem@123@Banka Personeli@0@1@2
+2@1234@eren@123@Banka Personeli@0@1@2
+3@123@aslı@123@Müşteri@2@2@3
+4@123456@ibo@123@Müşteri@0@1@0
